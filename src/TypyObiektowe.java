@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 import javax.swing.plaf.basic.BasicDesktopIconUI;
+=======
+>>>>>>> de704c6 (Test 1)
 import java.util.Scanner;
 
 public class TypyObiektowe {
@@ -50,7 +53,10 @@ public class TypyObiektowe {
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> de704c6 (Test 1)
     }
 
 
