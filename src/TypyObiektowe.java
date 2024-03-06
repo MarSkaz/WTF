@@ -1,3 +1,4 @@
+import javax.swing.plaf.basic.BasicDesktopIconUI;
 import java.util.Scanner;
 
 public class TypyObiektowe {
@@ -46,6 +47,7 @@ public class TypyObiektowe {
 
         String text = "Marcel";
         System.out.println(text);
+
 
 
 
