@@ -18,6 +18,10 @@ public class Compare {
         System.out.println(one < two);
         System.out.println(one == two);
 
+        boolean res1 = false;
+        boolean res2 = true;
+        boolean res3 = !res1;
+
 
     }
 
